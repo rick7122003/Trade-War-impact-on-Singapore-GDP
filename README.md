@@ -1,6 +1,14 @@
 # Trade-War-impact-on-Singapore-GDP
 Trade War impact on Singapore GDP. Early Phase of Trump Tariffs 10% on Singapore exports makes 2025 GDP revision from 1-3% to 0-2%
 
+
+![image](https://github.com/user-attachments/assets/73ac2958-9c86-4e45-b6b0-f008ab9708c5)
+
+
+![image](https://github.com/user-attachments/assets/697b7045-d079-4114-ac5f-e4b8edab1e0d)
+
+
+
 Executive Summary
 
 Singapore’s economy is at a critical juncture, balancing domestic resilience with global vulnerabilities. The revised 2025 GDP forecast reflects a cautious outlook amid trade wars and economic uncertainty. While Q1 2025 growth of 3.8% YoY is commendable, the QoQ contraction and sectoral declines signal challenges ahead. MTI’s proactive monitoring and potential for further adjustments will be crucial as Singapore navigates this turbulent global landscape. The next Economic Survey in May 2025 will provide deeper insights into these trends.
@@ -37,3 +45,30 @@ The 3.8% YoY growth in Q1 2025, while positive, indicates a cooling economy comp
 The downgraded 2025 forecast of 0.0%-2.0% highlights significant downside risks. The US-China trade war, as a primary driver, could disrupt Singapore’s trade-dependent economy, given its role as a global trading hub. The WTO’s projected -1.0% global merchandise trade growth for 2025 amplifies these concerns. Sectors like wholesale trade and transportation & storage, which rely on global trade flows, are particularly at risk, while finance & insurance may face reduced activity amid market volatility.
 
 However, some sectors show resilience. Construction’s steady 4.6% YoY growth and real estate’s robust performance suggest domestic demand remains a buffer. The information & communications sector also benefits from digitalization trends, though its QoQ decline indicates sensitivity to global conditions.
+
+
+![image](https://github.com/user-attachments/assets/7c4a8406-df36-4cf6-9607-0a053f0d7c51)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
